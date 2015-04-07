@@ -1,0 +1,10 @@
+const g_neRegion = ["Northeast Region", "ME, NY, VT, NH, MA, RI, CT"];
+const g_maRegion = ["Mid Atlantic Region", "PA, NJ, WV, VA, MD, DE, DC"];
+const g_msRegion = ["Mid South Region", "KY, TN, NC, SC"];
+const g_seRegion = ["Southeast Region", "MS, AL, GA, FL"];
+const g_glRegion = ["Great Lakes Region", "MI, IL, IN, OH"];
+const g_umRegion = ["Upper Midwest Region", "WI, MN, IA, SD, ND"];
+const g_gpRegion = ["Great Plains Region", "WY, NE, CO, KS, MO, NM"];
+const g_rrRegion = ["Red River Region", "TX, OK, AR, LA"];
+const g_gnRegion = ["Greater Northwest Region", "WA, MT, OR, ID, NV, UT, AK"];
+const g_psRegion = ["Pacific Southwest Region", "CA, AZ, HI"];
