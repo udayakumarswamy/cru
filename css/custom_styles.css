@@ -247,7 +247,7 @@ tr table tr{background:none !important;}
 .add_resource textarea{height:100px;}
 
 .slide_img{width:100%; height:335px; overflow:hidden; background-repeat:no-repeat; background-position:center center; background-size:cover; text-align:center;}
-.slide_img img{ display:none;}
+.slide_img img{ /*display:none; */}
 .slide_controls{ position:relative;}
 .blog_links{float:left; width:100%; margin:40px 0 0 0;}
 .blog_links ul{float:left; width:100%; padding:0; margin:0;}

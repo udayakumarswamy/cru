@@ -187,8 +187,8 @@ require_once("Database.singleton.php");
               <li class="active"><a href="index.php">Home</a></li>
              <li><a href="my_profile.php"> MY PROFILE</a></li>
               <li><a href="#">MY WORK</a></li>
-               <li><a href="#">BLOG</a></li>
-                <li><a href="#">RESOURCES</a></li>
+               <li><a href="blog.php">BLOG</a></li>
+                <li><a href="resources.php">RESOURCES</a></li>
                  <li><a href="about.php">ABOUT</a></li>
               
             </ul>
