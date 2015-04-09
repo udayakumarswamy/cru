@@ -75,7 +75,7 @@ catch (PDOException $e) {
         </div>
           <div class="container banner_txt">
           <div class="col-md-10"><?=$module['Descr'];?><br>
-          <button class="btn btn-warning continu_btn" type="submit">Continue to Module <?=intval($module['Number']);?></button>
+          <a href="modules.php?m=<?=intval($module['Number']);?>" class="btn btn-warning continu_btn">Continue to Module <?=intval($module['Number']);?></a>
           </div>
           
           </div>
